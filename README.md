@@ -9,13 +9,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Rmos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
 
 </div>
+
 <div style="display: inline_block"><br>
  
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 </div>
 
 ##
+
 <div>
   <a href="https://instagram.com/julio__rmos?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:julio.bioramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
