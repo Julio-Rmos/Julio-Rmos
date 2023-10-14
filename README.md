@@ -14,6 +14,8 @@
  
 <img align="left" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"/>
 <img align="left" alt="c" width="30px" src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif"/>
+<img align="left" alt="c" width="30px" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"/>
+<img align="left" alt="c" width="30px" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
 </div>
 
 ##
