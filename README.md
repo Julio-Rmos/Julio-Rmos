@@ -6,7 +6,10 @@
 
 <div>
 <a href="https://github.com/Julio-Rmos">
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julio-Rmos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br"/>
+
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Rmos&layout=compact&locale=pt-br&theme=midnight-purple"/>
 
 </div>
 
